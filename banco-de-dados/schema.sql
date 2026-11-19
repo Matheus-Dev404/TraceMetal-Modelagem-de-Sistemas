@@ -1,5 +1,5 @@
--- Proposta de DDL MySQL extraída do relatório técnico, páginas 21 a 23.
--- Cria as tabelas no banco selecionado. Consulte o relatório para as regras de negócio.
+
+
 
 CREATE TABLE perfil (
     id_perfil INT PRIMARY KEY AUTO_INCREMENT,
